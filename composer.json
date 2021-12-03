@@ -3,5 +3,10 @@
     "type": "twill-capsule",
     "require": {
         "area17/twill": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Freshleafmedia\\Test\\": "."
+        }
     }
 }
