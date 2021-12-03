@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Twill\Capsules\TestTwillCapsules\Repositories;
+namespace Freshleafmedia\TestTwillCapsule\TestTwillCapsules\Repositories;
 
 
 use A17\Twill\Repositories\ModuleRepository;
-use App\Twill\Capsules\TestTwillCapsules\Models\TestTwillCapsule;
+use Freshleafmedia\TestTwillCapsule\TestTwillCapsules\Models\TestTwillCapsule;
 
 class TestTwillCapsuleRepository extends ModuleRepository
 {
