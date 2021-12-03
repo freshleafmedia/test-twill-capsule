@@ -4,11 +4,11 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateTestsTables extends Migration
+class CreateTestTwillCapsulesTables extends Migration
 {
     public function up()
     {
-        Schema::create('tests', function (Blueprint $table) {
+        Schema::create('test_twill_capsules', function (Blueprint $table) {
             // this will create an id, a "published" column, and soft delete and timestamps columns
             createDefaultTableFields($table);
             
@@ -33,6 +33,6 @@ class CreateTestsTables extends Migration
     public function down()
     {
         
-        Schema::dropIfExists('tests');
+        Schema::dropIfExists('test_twill_capsules');
     }
 }

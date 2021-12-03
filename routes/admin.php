@@ -1,3 +1,3 @@
 <?php
 
-Route::module('testTwillCapsule');
+Route::module('testTwillCapsules');

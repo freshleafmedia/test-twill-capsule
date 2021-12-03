@@ -1,10 +1,10 @@
 <?php
 
-namespace Freshleafmedia\Test\Http\Requests;
+namespace App\Twill\Capsules\TestTwillCapsules\Http\Requests;
 
 use A17\Twill\Http\Requests\Admin\Request;
 
-class TestRequest extends Request
+class TestTwillCapsuleRequest extends Request
 {
     public function rulesForCreate()
     {

@@ -1,11 +1,11 @@
 <?php
 
-namespace Freshleafmedia\Test\Models;
+namespace App\Twill\Capsules\TestTwillCapsules\Models;
 
 
 use A17\Twill\Models\Model;
 
-class Test extends Model 
+class TestTwillCapsule extends Model 
 {
     
 

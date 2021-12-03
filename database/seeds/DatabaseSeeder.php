@@ -1,6 +1,6 @@
 <?php
 
-namespace Freshleafmedia\Test\Database\Seeds;
+namespace App\Twill\Capsules\TestTwillCapsules\Database\Seeds;
 
 use Illuminate\Database\Seeder;
 
