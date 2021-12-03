@@ -1,6 +1,6 @@
 <?php
 
-namespace Freshleafmedia\TestTwillCapsule\TestTwillCapsules\Http\Requests;
+namespace Freshleafmedia\TestTwillCapsule\Http\Requests;
 
 use A17\Twill\Http\Requests\Admin\Request;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Freshleafmedia\TestTwillCapsule\TestTwillCapsules\Http\Controllers;
+namespace Freshleafmedia\TestTwillCapsule\Http\Controllers;
 
 use A17\Twill\Http\Controllers\Admin\ModuleController as BaseModuleController;
 

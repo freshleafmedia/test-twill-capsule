@@ -1,6 +1,6 @@
 <?php
 
-namespace Freshleafmedia\TestTwillCapsule\TestTwillCapsules\Models;
+namespace Freshleafmedia\TestTwillCapsule\Models;
 
 
 use A17\Twill\Models\Model;
