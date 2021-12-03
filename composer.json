@@ -1,0 +1,7 @@
+{
+    "name": "freshleafmedia/test-twill-capsule",
+    "type": "twill-capsule",
+    "require": {
+        "area17/twill": "^2.0"
+    }
+}
